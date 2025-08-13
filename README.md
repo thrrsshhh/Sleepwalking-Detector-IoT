@@ -64,8 +64,6 @@ Our solution: a **wearable ESP32-based gadget** shaped like a wristwatch that de
 - **Walker**: ESP32 + BMA456 + LED + Shock Module + Push Button  
 - **Guardian**: ESP32 + Buzzer  
 
-*(Circuit diagrams coming soon — or check `/circuits` folder)*
-
 ---
 
 ## 📜 How It Works
