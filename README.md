@@ -102,10 +102,5 @@ Guided by:
 
 ---
 
-## 📄 License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 > *"Night is a time of dreams. Let's make sure they're safe ones."* 🌌
 
